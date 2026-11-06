@@ -43,17 +43,22 @@ My work combines web application engineering, secure authentication, assessment 
 
 ## 🚀 Featured Projects
 
-### 🏫 SCIS Connect — Community & Assessment Platform
+### 🏫 MCA Connect → SCIS Connect — Student Platform
 
-**Live:** [scisconnect.up.railway.app](https://scisconnect.up.railway.app/) · **Code:** [SCIS Connect frontend](https://github.com/25mcmc34-kumarshivam/SCIS-CONNECT-FRONTEND) · [MCA Connect frontend](https://github.com/MCA-connect/MCA-Connect-frontend) · [MCA Connect backend](https://github.com/MCA-connect/MCA-Connect-backend)
+**Live:** [scisconnect.up.railway.app](https://scisconnect.up.railway.app/) · **Team:** [MCA Connect](https://github.com/MCA-connect) · **Public code references:** [MCA Connect frontend](https://github.com/MCA-connect/MCA-Connect-frontend) · [MCA Connect backend](https://github.com/MCA-connect/MCA-Connect-backend)
 
-A university-focused platform for student communities, assessments and academic collaboration. The system brings together:
+MCA Connect was the original platform built collaboratively by the Connect team. We later integrated and evolved it into **SCIS Connect**, a student platform for the School of Computer and Information Sciences at the **University of Hyderabad**.
+
+The platform has been used by SCIS students since **June 2026** and currently supports approximately **220 users**. It brings together:
 
 - role-based access control and secure authentication
 - MCQ, SQL, coding and file-upload assessments
 - timed tests, autosave, recovery and results workflows
 - real-time activity, leaderboards and user interactions
+- frontend, backend and a dedicated query-server layer
 - Docker, Nginx and cloud deployment workflows
+
+This is a team-built, actively used product rather than a standalone demo. The Connect team continues to maintain and improve the platform for the SCIS student community.
 
 ### 🧘 M.S. Yoga Jamui — Production Website
 
