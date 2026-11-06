@@ -2,130 +2,129 @@
 
 # 👋 Hi, I'm Kumar Shivam
 
-### Full-Stack Developer • DevOps Enthusiast • Distributed Systems Explorer
+### Full-Stack Developer · DevOps Enthusiast · Distributed Systems Explorer
 
 <p>
-  <a href="https://github.com/25mcmc34-kumarshivam"><img src="https://img.shields.io/badge/GitHub-25mcmc34--kumarshivam-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/kumarshivam09singh/"><img src="https://img.shields.io/badge/LinkedIn-Kumar%20Shivam-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:kumarshivamuoh25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://scisconnect.up.railway.app/"><img src="https://img.shields.io/badge/SCIS%20Connect-Live%20Platform-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SCIS Connect" /></a>
+  <a href="https://msyogajamui.net/"><img src="https://img.shields.io/badge/MS%20Yoga%20Jamui-Live%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MS Yoga Jamui" /></a>
+  <a href="https://www.linkedin.com/in/kumarshivam09singh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Building+production-ready+web+applications;Designing+real-time+assessment+systems;Exploring+distributed+graph+processing;Learning+Cloud%2C+Kubernetes+and+DevOps;Turning+ideas+into+useful+software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Building+useful+production-ready+software;Designing+real-time+assessment+systems;Exploring+distributed+graph+processing;Learning+cloud%2C+Kubernetes+and+DevOps;Turning+ideas+into+working+products" alt="Typing introduction" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 About Me
 
-I am an MCA student at the University of Hyderabad and a hands-on full-stack developer passionate about building software that solves real-world problems.
+I am an MCA student at the **University of Hyderabad** and a hands-on full-stack developer who enjoys turning complex requirements into reliable, user-friendly products.
 
-My work spans full-stack web development, authentication systems, cloud deployment, Linux server setup, SQL and NoSQL data modeling, and distributed graph processing using Apache Hadoop and Apache Giraph.
+My work combines web application engineering, secure authentication, assessment platforms, cloud deployment, Linux server administration, SQL and NoSQL data modeling, and distributed graph processing with Apache Hadoop and Apache Giraph.
 
 - 🎓 MCA student at the University of Hyderabad
-- 💻 Full-stack developer focused on JavaScript, TypeScript, Node.js and React
-- 🐳 Interested in DevOps, Docker, Kubernetes and deployment automation
-- 🕸️ Exploring distributed systems and graph algorithms
-- 🧠 Strong in DSA, DBMS, OOP, Operating Systems and Computer Networks
-- 🏆 Solved 100+ problems on LeetCode
+- 💻 Full-stack developer working with JavaScript, TypeScript, React and Node.js
+- 🚀 Interested in DevOps, Docker, Kubernetes, Linux and deployment automation
+- 🕸️ Exploring distributed systems, graph algorithms and reproducible experiments
+- 🧠 Strong foundation in DSA, DBMS, OOP, Operating Systems and Computer Networks
 - 🥊 National-level boxer
 
----
+## 🔗 Explore My Work
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,bash" />
-</p>
-
-### Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,nodejs,express" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,git,github,docker,linux,nginx,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Giraph-F7A80D?style=flat-square&logo=apache&logoColor=black" />
-</p>
+| Platform | Link |
+|---|---|
+| **SCIS Connect** | [Open the live platform](https://scisconnect.up.railway.app/) |
+| **M.S. Yoga Jamui** | [Visit the official website](https://msyogajamui.net/) |
+| **Yoga Jamui pre-launch build** | [Preview the upcoming version](https://msyogajamui.vercel.app/) |
+| **SCIS Connect Magazine** | [Read the digital magazine](https://github.com/25mcmc34-kumarshivam/25mcmc34-kumarshivam/blob/main/SCIS%20Connect%20Magazine.pdf) |
+| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/kumarshivam09singh/) |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏫 SCIS Connect
-**Repositories:**
-- [Frontend](https://github.com/MCA-connect/MCA-Connect-frontend)
-- [Backend](https://github.com/MCA-connect/MCA-Connect-backend)
+### 🏫 SCIS Connect — Community & Assessment Platform
 
-A university-ready community and assessment platform supporting:
-- admissions and student profiles
-- assessments and coding challenges
-- SQL, MCQ and file-upload evaluation
+**Live:** [scisconnect.up.railway.app](https://scisconnect.up.railway.app/) · **Code:** [SCIS Connect frontend](https://github.com/25mcmc34-kumarshivam/SCIS-CONNECT-FRONTEND) · [MCA Connect frontend](https://github.com/MCA-connect/MCA-Connect-frontend) · [MCA Connect backend](https://github.com/MCA-connect/MCA-Connect-backend)
+
+A university-focused platform for student communities, assessments and academic collaboration. The system brings together:
+
 - role-based access control and secure authentication
-- real-time user activity and leaderboard systems
-- deployment using Docker and Nginx
+- MCQ, SQL, coding and file-upload assessments
+- timed tests, autosave, recovery and results workflows
+- real-time activity, leaderboards and user interactions
+- Docker, Nginx and cloud deployment workflows
 
-### 🕸️ Apache Giraph Project
-[Repository](https://github.com/25mcmc34-kumarshivam/APACHE-GIRAPH-PROJECT-)
+### 🧘 M.S. Yoga Jamui — Production Website
 
-Distributed graph processing work using Java, Apache Giraph, Hadoop, HDFS, and YARN.
-- PageRank
-- BFS and graph traversal
-- Degree analysis
-- Input-driven graph processing
+**Live:** [msyogajamui.net](https://msyogajamui.net/) · **Upcoming build:** [msyogajamui.vercel.app](https://msyogajamui.vercel.app/) · **Project:** [private repository](https://github.com/25mcmc34-kumarshivam/msyogajamui)
 
-### 🧠 Mindmap
-[Repository](https://github.com/25mcmc34-kumarshivam/mindmap)
+A production rebuild for M.S. Yoga Jamui, with an improved content structure and an upcoming pre-launch version. This is an example of taking a real client-facing website from development to a public deployment.
 
-A mindmap generation project built around Markmap, D3.js, Python, and PDF generation workflows.
-- Markmap generation
-- PDF/SVG export
-- layout customization
-- CLI-based usage
+### 🌱 GREENScore Hyderabad — Sustainability Scoring MVP
 
-### 🧪 Real-Time Assessment Platform
-Built systems for:
-- timed tests and resume-safe attempts
-- autosave and recovery
-- tab-switch monitoring
-- question-level evaluation and results
-- secure exam workflows and form handling
+**Project:** [Green-score](https://github.com/vijaysingh60/Green-score)
 
-### 🌐 Web Projects & Client Work
-- MS Yoga Jamui website management
-- NVA ERP and enrollment platform work
-- digital marketing and client-facing web experiences
+A hackathon MVP for assessing building sustainability in Hyderabad. It combines rule-based preliminary scoring, an advisory ML score, recommendations, a what-if simulator and human-admin verification before publishing a final score.
 
----
+**Highlights:** Next.js · Express · MongoDB · FastAPI · scikit-learn · Leaflet · Recharts
 
-## 📈 Verified GitHub Activity
+### 🕸️ Apache Giraph Graph Algorithms
 
-The following figures are from GitHub activity checks completed on October 1, 2026:
+**Project:** [APACHE-GIRAPH-PROJECT-](https://github.com/25mcmc34-kumarshivam/APACHE-GIRAPH-PROJECT-)
 
-- GitHub commit search for `author:25mcmc34-kumarshivam` with date range `2026-06-01..2026-09-30` returned **729 matching commit results**.
-- The GitHub profile contribution graph showed **407 contributions in September 2026**.
+An experiment-driven distributed graph-processing project built on Ubuntu, Hadoop and Apache Giraph. It includes reproducible datasets, measured outputs and implementations or evaluations of:
 
-> These are different GitHub metrics and should not be treated as the same counting method. The commit search counts matching repository commits, while the profile graph reflects contribution aggregation on GitHub.
+- PageRank, BFS and single-source shortest paths
+- in-degree and out-degree analysis
+- Graph Burning simulations with local Python verification
+- HDFS/YARN workflows and multi-node experiment planning
 
-### Relevant repositories
-- [MCA Connect frontend](https://github.com/MCA-connect/MCA-Connect-frontend)
-- [MCA Connect backend](https://github.com/MCA-connect/MCA-Connect-backend)
-- [SCIS Connect frontend](https://github.com/25mcmc34-kumarshivam/SCIS-CONNECT-FRONTEND)
-- [Apache Giraph project](https://github.com/25mcmc34-kumarshivam/APACHE-GIRAPH-PROJECT-)
-- [Mindmap](https://github.com/25mcmc34-kumarshivam/mindmap)
+### 🔒 Private Product Work
+
+Some current client and product work is kept private while it is being developed. The public deployments below show the work in progress without exposing private source code:
+
+- **MS Yoga Jamui** — production website and upcoming redesign
+- **SCIS Connect** — community, assessment and academic platform
+- **Auraa Consult website** — client-facing website work in progress
 
 ---
 
-## 🏆 Achievements
+## 📰 SCIS Connect Magazine
+
+I also created and published a digital magazine connected with the SCIS Connect initiative.
+
+<div align="center">
+
+### 📖 Read the magazine
+
+[![Read SCIS Connect Magazine](https://img.shields.io/badge/Read%20SCIS%20Connect%20Magazine-Open%20PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/25mcmc34-kumarshivam/25mcmc34-kumarshivam/blob/main/SCIS%20Connect%20Magazine.pdf)
+
+</div>
+
+It is a useful companion to the platform: it showcases the community, ideas and work around SCIS Connect in a shareable format.
+
+---
+
+## 🛠️ Technology I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,bash,react,nextjs,html,css,tailwind,vite,nodejs,express,mongodb,mysql,oracle,git,github,docker,linux,nginx,vscode" alt="Technology icons" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache_Giraph-F7A80D?style=flat-square&logo=apache&logoColor=black" alt="Apache Giraph" />
+</p>
+
+## 🎯 Current Focus
+
+`Full-Stack Products` · `Cloud Deployment` · `DevOps` · `Distributed Systems` · `Graph Algorithms` · `System Design`
+
+## 🏆 Highlights
 
 - 🎓 Class Representative, MCA, University of Hyderabad
 - 🤝 Placement Coordinator, MCA 2025–27
@@ -134,52 +133,31 @@ The following figures are from GitHub activity checks completed on October 1, 20
 - 🧠 Solved 100+ problems on LeetCode
 - 📜 Google Digital Marketing certified
 
----
-
-## 🎓 Education
-
-| Qualification | Institution | Details |
-|---|---|---|
-| MCA | University of Hyderabad | PG program |
-| BCA | T.M. Bhagalpur University | 74.81% |
-| Class XII | DAV Public School, CBSE | 72.4% |
-| Class X | DAV Public School, CBSE | 9.4 CGPA |
-
----
-
-## 📚 Core CS Skills
-
-`Operating Systems` · `Computer Networks` · `Data Structures` · `DBMS` · `OOP` · `System Design` · `Distributed Systems`
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=25mcmc34-kumarshivam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25mcmc34-kumarshivam&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=25mcmc34-kumarshivam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25mcmc34-kumarshivam&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=10" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=25mcmc34-kumarshivam&theme=tokyonight&hide_border=true&border_radius=14" />
+<img src="https://streak-stats.demolab.com?user=25mcmc34-kumarshivam&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub streak" />
 
 </div>
 
----
-
-## 📫 Contact
+## 📫 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/kumarshivam09singh/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:kumarshivamuoh25@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="mailto:25mcmc34@uohyd.ac.in"><img src="https://img.shields.io/badge/University%20Email-UoH-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:kumarshivamuoh25@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kumarshivam09singh/"><img src="https://img.shields.io/badge/LinkedIn-Kumar%20Shivam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/25mcmc34-kumarshivam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <div align="center">
 
 ### “Build it. Understand it. Improve it.” 🚀
 
-<img src="https://komarev.com/ghpvc/?username=25mcmc34-kumarshivam&style=for-the-badge&color=8B5CF6" />
+<img src="https://komarev.com/ghpvc/?username=25mcmc34-kumarshivam&style=for-the-badge&color=8B5CF6" alt="Profile views" />
 
 </div>
