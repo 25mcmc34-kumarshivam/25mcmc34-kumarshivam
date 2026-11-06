@@ -49,7 +49,7 @@ My work combines web application engineering, secure authentication, assessment 
 
 MCA Connect was the original platform built collaboratively by the Connect team. We later integrated and evolved it into **SCIS Connect**, a student platform for the School of Computer and Information Sciences at the **University of Hyderabad**.
 
-The platform has been used by SCIS students since **June 2026** and currently supports approximately **220 users**. It brings together:
+The platform has been used by SCIS students since **June 2026** and is designed to support large-scale adoption across the student community. It brings together:
 
 - role-based access control and secure authentication
 - MCQ, SQL, coding and file-upload assessments
