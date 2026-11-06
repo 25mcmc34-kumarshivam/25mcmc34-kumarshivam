@@ -69,6 +69,21 @@ A hackathon MVP for assessing building sustainability in Hyderabad. It combines 
 
 **Highlights:** Next.js · Express · MongoDB · FastAPI · scikit-learn · Leaflet · Recharts
 
+### 🤖 PromoPilot — AI/ML Promotion & Inventory Planner
+
+**Project:** [Product Promotion](https://github.com/vijaysingh60/Product_Promotion)
+
+An explainable promotion-planning system that recommends **what to promote, for which customer segment, in which city and at what discount** while balancing incremental profit, pricing rules, inventory safety and marketing budget.
+
+- deterministic decision engine with typed response, demand and inventory model seams
+- earlier XGBoost uplift-model service and synthetic retail dataset for ML experimentation
+- city-level stock protection, safety-stock limits and stockout-risk considerations
+- budget allocation based on incremental profit per promotion cost
+- clearance recommendations, alternatives and customer-segment fatigue handling
+- interactive Next.js dashboard, simulator, analytics and natural-language assistant
+
+**Highlights:** TypeScript · Next.js · XGBoost · Python · Synthetic Data · Decision Systems · Analytics
+
 ### 🕸️ Apache Giraph Graph Algorithms
 
 **Project:** [APACHE-GIRAPH-PROJECT-](https://github.com/25mcmc34-kumarshivam/APACHE-GIRAPH-PROJECT-)
